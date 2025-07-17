@@ -34,7 +34,14 @@ Built with **OpenAI GPT**, **Streamlit**, and usage tracking logic.
 
 ## 🖼️ Demo Screenshot  
 
-![AI Mentor Screenshot](screenshot.png)  
+### 1️⃣ Disclaimer Screen  
+![Disclaimer Screen](screenshots/disclaimer_screen.jpg)  
+
+### 2️⃣ Main App Interface  
+![Main App](screenshots/main_app.jpg)  
+
+### 3️⃣ Free Plan Limit Reached  
+![Free Plan Limit](screenshots/limit_reached.jpg)  
 
 ---
 
