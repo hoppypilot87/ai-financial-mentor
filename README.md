@@ -35,13 +35,13 @@ Built with **OpenAI GPT**, **Streamlit**, and usage tracking logic.
 ## 🖼️ Demo Screenshot  
 
 ### 1️⃣ Disclaimer Screen  
-![Disclaimer Screen](screenshots/disclaimer_screen.jpg)  
+<img src="screenshots/disclaimer_screen.jpg" alt="Disclaimer Screen" width="600"/>  
 
 ### 2️⃣ Main App Interface  
-![Main App](screenshots/main_app.jpg)  
+<img src="screenshots/main_app.jpg" alt="Main App Screen" width="600"/>  
 
 ### 3️⃣ Free Plan Limit Reached  
-![Free Plan Limit](screenshots/limit_reached.jpg)  
+<img src="screenshots/limit_reached.jpg" alt="Limit Reached Screen" width="600"/>  
 
 ---
 
