@@ -90,16 +90,16 @@ streamlit run app.py
 
 ## 📜 License  
 
-This project is **proprietary**. It can be showcased in portfolios but **cannot be reused or modified for commercial purposes** without explicit permission.  
+This project is **proprietary**. You may view, clone, and run this project for personal, non-commercial purposes. You may NOT redistribute, sublicense, or use this code in commercial products.   
 
 ---
 
-## 🌟 Why This Project?  
+🌟 What This Project Demonstrates
 
-✅ Demonstrates **AI integration** into a functional web app  
-✅ Shows **OpenAI API usage** with real-world constraints (plan limits)  
-✅ Highlights **UX considerations** like disclaimers & gated access  
-✅ Perfect **portfolio piece** for AI Engineer or FinTech-related roles  
+✅ Seamless AI integration into a user-friendly financial web app
+✅ Practical OpenAI API usage with real-world constraints like free vs. pro plan limits
+✅ Thoughtful UX design, including gated access, usage tracking, and clear upgrade paths
+✅ Responsible AI deployment with legal disclaimers and explicit user consent  
 
 ---
 
